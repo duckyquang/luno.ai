@@ -65,15 +65,6 @@ Example:
 python main.py --mode interact
 ```
 
-### API Usage
-If your AI provides an API:
-```
-POST /api/v1/predict
-Body: {
-  "input": "How can I help you today?"
-}
-```
-
 ---
 
 ## Model Details
