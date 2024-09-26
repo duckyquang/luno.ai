@@ -58,11 +58,8 @@ pip install beautifulsoup4
 ## Usage
 
 ### Running the AI
-Provide instructions on how to run the AI or use its features.
-
-Example:
 ```bash
-python main.py --mode interact
+yet to be added :)
 ```
 
 ---
@@ -70,15 +67,9 @@ python main.py --mode interact
 ## Model Details
 
 ### Model Architecture
-Provide a description of the model architecture (e.g., CNN, RNN, Transformer).
-
-Example:
 ```
-This AI is built using the GPT-3 architecture, which is a transformer-based model optimized for NLP tasks such as text generation and comprehension.
+This AI is built using the GPT-4o architecture, which is a transformer-based model optimized for NLP tasks such as text generation and comprehension.
 ```
-
-### Pre-trained Models
-Link to any pre-trained models you are using or offer instructions on how to download them.
 
 ---
 
@@ -100,11 +91,12 @@ Link to any pre-trained models you are using or offer instructions on how to dow
 ## Training the Model
 
 ### Data Preparation
-Explain how to acquire or prepare the data for training.
 
 Example:
 ```
-The dataset used for training is the OpenAI GPT-3 dataset, which can be accessed via the OpenAI API.
+The dataset used for training is the OpenAI GPT-4o dataset, which can be accessed via the paid version OpenAI API.
+If you can't access the GPT-4o dataset, you can use the free version of GPT-3 via OpenAI API.
+And if you want to upload your own files, please save it as a CSV file.
 ```
 
 ### Training
